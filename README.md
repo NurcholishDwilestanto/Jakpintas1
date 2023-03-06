@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # Jakpintas1
+# Jakpintas1
